@@ -12077,23 +12077,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\debad\\.nuget\\packages\\": {},
+    "C:\\Users\\gnsni\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\debad\\source\\repos\\RupanjaliC\\IS7024\\CafeRecords\\CafeRecords.csproj",
+      "projectUniqueName": "C:\\Users\\gnsni\\Desktop\\CafeRecords\\CafeRecords\\CafeRecords.csproj",
       "projectName": "CafeRecords",
-      "projectPath": "C:\\Users\\debad\\source\\repos\\RupanjaliC\\IS7024\\CafeRecords\\CafeRecords.csproj",
-      "packagesPath": "C:\\Users\\debad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\debad\\source\\repos\\RupanjaliC\\IS7024\\CafeRecords\\obj\\",
+      "projectPath": "C:\\Users\\gnsni\\Desktop\\CafeRecords\\CafeRecords\\CafeRecords.csproj",
+      "packagesPath": "C:\\Users\\gnsni\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gnsni\\Desktop\\CafeRecords\\CafeRecords\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\debad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gnsni\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
